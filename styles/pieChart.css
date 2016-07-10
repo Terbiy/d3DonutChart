@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+.donut-chart {
+  text-align: center;
+}
+
+.donut-chart {
+  width: 200px;
+  display: inline-block;
+}
+
+svg {
+  overflow: visible;
+}
